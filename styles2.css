@@ -1,0 +1,13 @@
+
+.navbar-brand {
+  font-size: 25px;
+}
+.carousel {
+ margin-top: 15%;
+}
+
+.hr2{
+  height: 5px;
+  width: 100%;
+  border-bottom: 2px grey solid;
+}
