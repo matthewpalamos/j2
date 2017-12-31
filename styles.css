@@ -5,8 +5,16 @@
   font-size: 20px;
 }
 
+.jumbotron {
+  text-align: center;
+  border-bottom: 2px grey solid;
+}
+.photo1 {
+  padding-top: 5%;
+}
 .rows {
   text-align: left;
+  padding-top: 50px
   font-size: 20px;
 }
 
@@ -21,13 +29,13 @@
 }
 
 .hr {
-  height: 5px;
+  height: 2px;
   width: 25%;
   border-bottom: 2px grey solid;
 }
 
 .hr2{
-  height: 5px;
+  height: 2px;
   width: 100%;
   border-bottom: 2px grey solid;
 }
