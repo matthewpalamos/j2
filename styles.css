@@ -4,18 +4,38 @@
 .container {
   font-size: 20px;
 }
-
+.contact {
+  font-size: 20px;
+  text-align: center;
+}
+.navbar-header {
+  color: white;
+}
 .jumbotron {
   text-align: center;
+  border-top: 2px grey solid;
   border-bottom: 2px grey solid;
+  margin-top: 10%;
 }
 .photo1 {
   padding-top: 5%;
 }
 .rows {
   text-align: left;
-  padding-top: 50px
   font-size: 20px;
+}
+
+.inside > .hr3 {
+  height: 2px;
+  width: 75%;
+  border-bottom: 3px grey solid;
+
+}
+
+.inside > .hr4 {
+  height: 2px;
+  width: 40%;
+  border-bottom: 3px grey solid;
 }
 
 
@@ -31,28 +51,30 @@
 
 .hr {
   height: 2px;
-  width: 25%;
+  width: 80%;
   border-bottom: 2px grey solid;
 }
 
-.hr2{
+.hr2 {
+  height: 2px;
+  width: 60%;
+  border-bottom: 3px grey solid;
+}
+
+.hr3 {
+  height: 1px;
+  width: 40%;
+  border-bottom: 2px grey solid;
+}
+
+.hr4 {
+  height: 2px;
+  width: 30%;
+  border-bottom: 2px grey solid;
+}
+
+.hr5 {
   height: 2px;
   width: 100%;
   border-bottom: 2px grey solid;
-}
-
-.hr3{
-  height: 2px;
-  width: 50%;
-  border-bottom: 2px grey solid;
-}
-
-.divLast
-{
-   top: 0px;
-   margin:0px;
-   padding: 0px 2px 2px 3px;
-   border-width: 2px;
-   border-bottom: 2px grey solid;
-   width: 100%;
 }
