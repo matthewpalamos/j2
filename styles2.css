@@ -1,6 +1,7 @@
 
 .navbar-brand {
   font-size: 25px;
+  text-align: left;
 }
 .carousel {
  margin-top: 15%;
